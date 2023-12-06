@@ -20,7 +20,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🎓 &nbsp; BS(CS) from UCP
 - 💼 &nbsp; Working as a Full Stack Software Engineer at [Nextbridge](https://pk.linkedin.com/company/nextbridge)
-- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies
+- 🌱 &nbsp; Learning more about DevOps, Front-end and Back-end technologies
 - 📫 &nbsp; How to reach me: md.adilzahid@gmail.com
 <!-- - 🥅 &nbsp; 2023 Goals: Learn Web3, Graphql and Apollo Client -->
 
