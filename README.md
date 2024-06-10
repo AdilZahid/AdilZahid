@@ -51,4 +51,7 @@
 <a href="https://www.linkedin.com/in/muhammadadil-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/10081945/adil-zahid"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
 <a href="mailto:md.adilzahid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-md.adilzahid@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://join.skype.com/invite/pgMtInIudr1y"><img alt="Skype" src="https://img.shields.io/badge/m.adil118-Skype-blue?style=flat-square&logo=skype"></a>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/923134290891"> <img alt="Chat on WhatsApp" src="https://img.shields.io/badge/WhatsApp-gray?style=flat-square&logo=whatsapp" />
+<a />
 </p>
