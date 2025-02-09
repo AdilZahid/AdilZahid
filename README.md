@@ -27,8 +27,8 @@
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Ruby
-- 🌐 &nbsp; Ruby on Rails | ReactJS | React-Native | JavaScript | TypeScript
-- 💈 &nbsp; React-Bootstrap | Material-UI | Semantic-UI | Bootstrap
+- 🌐 &nbsp; Ruby on Rails | ReactJS | NextJS | React-Native | JavaScript | TypeScript
+- 💈 &nbsp; React-Bootstrap | Material-UI | Semantic-UI | Bootstrap | Tailwind | NextUI | ShadCN
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - ⚡  &nbsp; Amazon Web Services, DigitalOcean, Google Cloud, and Heroku
 - 🖥 &nbsp; Figma | AdobeXD
